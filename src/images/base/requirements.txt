@@ -8,7 +8,7 @@ boto3==1.16.25
 croniter==0.3.36
 eventlet==0.29.1
 Flask==2.2.5
-flask-restx==0.2.0
+flask-restx==0.5.1
 Flask-SocketIO==4.3.2
 google-cloud-storage==1.33.0
 jsonschema==3.2.0
