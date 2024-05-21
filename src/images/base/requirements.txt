@@ -19,7 +19,7 @@ python-cachetclient==0.2.5
 python-engineio==3.13.2
 python3-saml==1.15.0
 python-swiftclient==3.13.1
-requests==2.31.0
+requests==2.32.0
 MarkupSafe==0.23 # jinja2 2.11.3 did not pin MarkupSafe versions, will bring breaking changes
 paramiko==3.4.0 # FIXME: can we update to 3.x?
 pycryptodome==3.19.1
